@@ -1,0 +1,8 @@
+[
+  {"id": 1, "userId": 1, "title": "Bắt đầu từ những điều đơn giản", "body": "Một ứng dụng dễ hiểu bắt đầu bằng việc phân chia trách nhiệm rõ ràng.\n\nMỗi thành phần chỉ nên đảm nhận một nhiệm vụ. Khi cần thay đổi cách lưu dữ liệu, chúng ta không phải viết lại giao diện."},
+  {"id": 2, "userId": 1, "title": "Một khoảng nghỉ cho ý tưởng mới", "body": "Đọc một bài viết ngắn, nhìn lại công việc đang làm và đặt câu hỏi khác đi.\n\nNhững khoảng nghỉ nhỏ giúp ta quay trở lại với cách nhìn mạch lạc hơn."},
+  {"id": 3, "userId": 2, "title": "Vì sao nên kiểm thử quy tắc nghiệp vụ?", "body": "Quy tắc tìm kiếm và lọc dữ liệu có thể được kiểm tra độc lập với giao diện.\n\nMột bài kiểm thử tốt mô tả hành vi mong muốn, bao gồm dữ liệu đúng, dữ liệu rỗng và trường hợp lỗi."},
+  {"id": 4, "userId": 2, "title": "Viết mã cho người sẽ đọc nó", "body": "Tên biến rõ ràng giúp người đọc theo dõi luồng xử lý.\n\nĐặt tên theo vai trò và giữ hàm ngắn giúp việc giải thích chương trình trở nên tự nhiên hơn."},
+  {"id": 5, "userId": 3, "title": "Sức mạnh của một hợp đồng nhỏ", "body": "Repository là một hợp đồng về khả năng cung cấp dữ liệu.\n\nNgười sử dụng không cần biết dữ liệu đến từ API hay tệp mẫu. Chúng ta có thể thay implementation thông qua Dependency Injection."},
+  {"id": 6, "userId": 3, "title": "Học bằng cách thử và quan sát", "body": "Hãy thay nguồn dữ liệu, chạy lại kiểm thử và quan sát kết quả.\n\nKhi hiểu được đường đi của một yêu cầu từ giao diện đến máy chủ và quay trở lại, bạn sẽ dễ dàng giải thích kiến trúc của mình."}
+]
